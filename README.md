@@ -20,10 +20,6 @@ I am also interested in exploring modern **Front-End technologies** and currentl
 - MERN Stack Development
 - Learning modern web technologies
   
-**🏆 Hackathon Journey**
-**Upcoming Goals**: Preparing with my team for **Microsoft HackXtreme 2026 in Gurugram and the **Amazon Web Services Hackathon at Indian Institute of Technology Kanpur.
-**Previous Experience**: Participated in Hack with UP, where I gained valuable experience building projects within strict time limits.
-**Current Focus**: Developing scalable applications using the MERN stack and experimenting with AI integrations for our hackathon projects.
 
 ## 🧑‍🤝‍🧑 Team Collaboration
 I enjoy supporting my teammates by helping them:
